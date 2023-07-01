@@ -1,2 +1,2 @@
 # FlippyBird
-Flappy Bird clone. Made in Unity in an hour.
+Flappy Bird clone. Made in Unity in 1 hour in a challenge.
